@@ -1,0 +1,36 @@
+camera_matrix: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - !!python/name:numpy.ndarray ''
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    feso1GUOhEAAAAAAAAAAAKJowur+9XRAAAAAAAAAAADAEghcWEOEQDHJ/I162m1AAAAAAAAAAAAA
+    AAAAAAAAAAAAAAAAAPA/
+dist_coeff:
+- - -0.06981449628571262
+  - 1.1454629594839711
+  - -0.002613220241980013
+  - 0.004270126260265264
+  - -4.0189427200495205
